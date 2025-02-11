@@ -38,3 +38,5 @@ Falls Änderungen im `Dockerfile` gemacht werden, sollte das Image neu gebaut we
 ```sh
 docker-compose up --build
 ```
+
+Entwickelt von Seyma Karakurt
